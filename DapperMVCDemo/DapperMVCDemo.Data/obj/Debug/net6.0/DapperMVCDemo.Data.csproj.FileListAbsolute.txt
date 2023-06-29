@@ -1,0 +1,12 @@
+D:\Project\DapperMVCDemo\DapperMVCDemo\DapperMVCDemo.Data\obj\Debug\net6.0\DapperMVCDemo.Data.csproj.AssemblyReference.cache
+D:\Project\DapperMVCDemo\DapperMVCDemo\DapperMVCDemo.Data\obj\Debug\net6.0\DapperMVCDemo.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DapperMVCDemo\DapperMVCDemo\DapperMVCDemo.Data\obj\Debug\net6.0\DapperMVCDemo.Data.AssemblyInfoInputs.cache
+D:\Project\DapperMVCDemo\DapperMVCDemo\DapperMVCDemo.Data\obj\Debug\net6.0\DapperMVCDemo.Data.AssemblyInfo.cs
+D:\Project\DapperMVCDemo\DapperMVCDemo\DapperMVCDemo.Data\obj\Debug\net6.0\DapperMVCDemo.Data.csproj.CoreCompileInputs.cache
+D:\Project\DapperMVCDemo\DapperMVCDemo\DapperMVCDemo.Data\bin\Debug\net6.0\DapperMVCDemo.Data.deps.json
+D:\Project\DapperMVCDemo\DapperMVCDemo\DapperMVCDemo.Data\bin\Debug\net6.0\DapperMVCDemo.Data.dll
+D:\Project\DapperMVCDemo\DapperMVCDemo\DapperMVCDemo.Data\bin\Debug\net6.0\DapperMVCDemo.Data.pdb
+D:\Project\DapperMVCDemo\DapperMVCDemo\DapperMVCDemo.Data\obj\Debug\net6.0\DapperMVCDemo.Data.dll
+D:\Project\DapperMVCDemo\DapperMVCDemo\DapperMVCDemo.Data\obj\Debug\net6.0\refint\DapperMVCDemo.Data.dll
+D:\Project\DapperMVCDemo\DapperMVCDemo\DapperMVCDemo.Data\obj\Debug\net6.0\DapperMVCDemo.Data.pdb
+D:\Project\DapperMVCDemo\DapperMVCDemo\DapperMVCDemo.Data\obj\Debug\net6.0\ref\DapperMVCDemo.Data.dll

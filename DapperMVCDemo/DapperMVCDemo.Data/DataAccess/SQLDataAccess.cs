@@ -20,7 +20,7 @@ namespace DapperMVCDemo.Data.DataAccess
 
 
         #region Get All the Data
-        public async Task<IEnumerable<T>> GetData<T, P>(string spName, string parameters, string connectionId = "connection") 
+        public async Task<IEnumerable<T>> GetData<T, P>(string spName, P parameters, string connectionId = "connection") 
         {
             using IDbConnection connection = new SqlConnection
                     (_configuration.GetConnectionString(connectionId));

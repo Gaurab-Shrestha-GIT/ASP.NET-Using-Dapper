@@ -42,6 +42,32 @@ namespace DapperMVCDemo.Data.Repository
             {
                 return false;
             }
+        }   
+        
+        public async Task<bool> DeletePerson(int id)
+        {
+            try
+            {
+                await _sqlDataAccess.SaveData("sp_create_person", new { Id = id });
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
+        }
+
+        public async Task<Person?> GetPersonById(int id)
+        {
+            IEnumerable<Person> result = await _sqlDataAccess.GetData<Person, dynamic>
+                   ("sp_get_all_person", new { Id = id });
+            return result.FirstOrDefault();
+        }  
+        
+        public async Task<IEnumerable<Person>> GetAllData()
+        { 
+            string query = "sp_get_all_person";
+            return await _sqlDataAccess.GetData<Person, dynamic>(query, new { });
         }
 
     }
